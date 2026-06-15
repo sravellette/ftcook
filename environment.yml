@@ -10,3 +10,8 @@ dependencies:
   - xarray
   - metpy
   - scikit-image
+  - netcdf4
+  - matplotlib
+  - pandas
+  - cartopy
+  - geopandas
