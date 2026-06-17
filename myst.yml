@@ -49,7 +49,7 @@ project:
         - file: notebooks/precip_scikit.ipynb
     - title: Sea Level Pressure Tracking
       children:
-        - file: notebooks/SLP_matplotlib.ipynb
+        - file: notebooks/matplotlib_SLP.ipynb
         - file: notebooks/SLP_scipy.ipynb
         - file: notebooks/SLP_scikit.ipynb
     - title: Combined Tracking
