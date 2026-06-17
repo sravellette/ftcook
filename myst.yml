@@ -39,15 +39,24 @@ project:
     - title: Preamble
       children:
         - file: notebooks/how-to-cite.md
-    - title: Introduction
+    - title: Foundations
+      children:
+        - file: notebooks/foundations.ipynb
+    - title: Precipitation Tracking
+      children:
+        - file: notebooks/precip_matplotlib.ipynb
+        - file: notebooks/scipy_precip.ipynb
+        - file: notebooks/precip_scikit.ipynb
+    - title: Sea Level Pressure Tracking
+      children:
+        - file: notebooks/SLP_matplotlib.ipynb
+        - file: notebooks/SLP_scipy.ipynb
+        - file: notebooks/SLP_scikit.ipynb
+    - title: Combined Tracking
       children:
         - file: notebooks/scikit_SLP_precip.ipynb
-        - file: notebooks/scipy_precip.ipynb
-        - file: notebooks/SLP_matplotlib.ipynb
-        - file: notebooks/SLP_scikit.ipynb
-        - file: notebooks/SLP_scipy.ipynb
-        - file: notebooks/precip_scikit.ipynb
-        - file: notebooks/precip_matplotlib.ipynb
+    - title: Appendix
+      children:
         - file: notebooks/era5-demo.ipynb
   jupyter:
       binder:
