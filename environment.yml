@@ -15,9 +15,5 @@ dependencies:
   - pandas
   - cartopy
   - geopandas
-  - arraylake
-  - gcsfs
   - s3fs
-  - pip
-  - pip:
-    - pcodec
+  - zarr
