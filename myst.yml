@@ -5,7 +5,7 @@ extends:
 project:
   title: Feature Tracking Cookbook
   github: https://github.com/projectpythia/feature-tracking-cookbook
-  doi: https://doi.org/10.5281/zenodo.7884571
+  doi: https://doi.org/10.5281/zenodo.20753356
   authors:
     - name: Matthew Lynne
       affiliation: UAlbany
