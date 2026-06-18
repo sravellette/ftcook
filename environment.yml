@@ -12,7 +12,7 @@ dependencies:
   - metpy
   - scikit-image
   - netcdf4
-  - matplotlib
+  - matplotlib < 3.11  # Temporary pin because of a colorbar bug
   - pandas
   - cartopy
   - geopandas
