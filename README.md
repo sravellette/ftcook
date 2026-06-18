@@ -1,6 +1,6 @@
 # Feature Tracking Cookbook
 
-<img src="thumbnails/readmethumb.png" alt="thumbnail" width="300"/>
+<img src="thumbnails/readmethumb.png" alt="thumbnail" width="500"/>
 
 [![nightly-build](https://github.com/ProjectPythia/feature-tracking-cookbook/actions/workflows/nightly-build.yaml/badge.svg)](https://github.com/ProjectPythia/feature-tracking-cookbook/actions/workflows/nightly-build.yaml)
 [![Binder](https://binder.projectpythia.org/badge_logo.svg)](https://binder.projectpythia.org/v2/gh/ProjectPythia/feature-tracking-cookbook/main?labpath=notebooks)
@@ -38,19 +38,32 @@ Matthew Lynne, Brian Rose, Sarah Ravellette, Snigdha Samantaray, Jacob Vile, Chr
 
 ## Structure
 
-This cookbook is broken up into three main sections - "Overview," "Precipitation," "and Sea Level Pressure"
+This cookbook is broken up into three main sections: "Overview," "Precipitation," "and Sea Level Pressure"
 
-### Section 1 "Overview"
+### Section 1 "Preamble"
 
-"The overview content includes what types of methods were used and information on extratropical cyclones"
+How to cite the cookbook.
 
-### Section 2 "Precipitation"
+### Section 2 "Foundations"
 
-"Example workflows include how to track precipitation over time"
+ - Foundational material about Matplotlib, SciPy, and Scikit.
+ - Where to apply these tools.
 
-### Section 3 "Sea Level Pressure"
+### Section 3 "Precipitation Tracking"
 
-"Example workflows include how to track sea level pressure over time"
+Example workflows include how to track precipitation over time.
+
+### Section 4 "Sea Level Pressure Tracking"
+
+Example workflows include how to track sea level pressure over time.
+
+### Section 5 "Combined Tracking"
+
+Example workflows include how to track sea level pressure and precipitation over time.
+
+### Section 6 "Appendix"
+
+Exploring data sources for ERA5.
 
 ## Running the Notebooks
 
